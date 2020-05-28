@@ -4,6 +4,8 @@ First page load is a list of users, then you can check certain user's posts and 
 
 Add, edit and delete posts (although you can't change API, the only changes you can see is by alert in the browser, that means that any of these methods is working)
 
+Demo: https://jackaj16.github.io/UsersApp/
+
 ### `How to start this app on your computer`
 
 - Clone or download directory
